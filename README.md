@@ -43,7 +43,9 @@ npm -v
 ```
 
 Here is what it looks like:
+```
 ![cmdnode image](cmdnode.png)
+```
 
 ### You should see the version numbers for both
 
