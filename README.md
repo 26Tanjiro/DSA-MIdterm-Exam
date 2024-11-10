@@ -28,7 +28,8 @@ React.js, commonly referred to as React, is an open-source JavaScript library de
 
 ## How to Set Up React JS?
 
-### Prerequisite Apps
+
 
 **Step 1: Install Node.js and NPM**
 -----------------------------------
+1. Download Node.js: Visit the [official Node.js](https://nodejs.org/en) website and download the latest Long Term Support (LTS) version, which includes NPM (Node Package Manager).
