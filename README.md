@@ -22,4 +22,13 @@ React.js, commonly referred to as React, is an open-source JavaScript library de
 
 * **Strong Community Support**: Being backed by Facebook and a large community of developers ensures continuous improvement, extensive resources, and a wealth of third-party libraries and tools available for use with React.
 
-* **Cross-Platform Development**: With tools like React Native, developers can use React to build mobile applications for iOS and Android using the same principles and codebase as web applications
+* **Cross-Platform Development**: With tools like React Native, developers can use React to build mobile applications for iOS and Android using the same principles and codebase as web applications.
+
+* **Declarative Programming**: React allows developers to describe how their UI should look based on the current state of the application. When the state changes, React automatically updates the UI accordingly, simplifying the development process.
+
+## How to Set Up React JS?
+
+### Prerequisite Apps
+
+**Step 1: Install Node.js and NPM**
+-----------------------------------
