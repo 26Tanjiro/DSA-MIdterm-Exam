@@ -41,3 +41,46 @@ React.js, commonly referred to as React, is an open-source JavaScript library de
 node -v
 npm -v
 ```
+You should see the version numbers for both.
+-----------------
+**Step 2: Create a New React Project
+---------------
+1. Using Create React App: The easiest way to set up a new React project is by using Create React App. Run the following command in your terminal:
+```
+npx create-react-app my-app
+```
+Replace `my-app` with your desired project name. This command will create a new directory with all the necessary files and dependencies for your React application.
+
+2. Navigate to Project Directory:
+```
+cd my-app
+```
+Check carefuly.
+---------------
+**Step 3: Explore Project Structure**
+----------
+After creating your project, you will see a structure similar to this:
+```
+my-app/
+|-- node_modules/
+|-- public/
+|   |-- favicon.ico
+|   |-- index.html
+|-- src/
+|   |-- App.css
+|   |-- App.js
+|   |-- index.css
+|   |-- index.js
+|-- package.json
+```
+* `src/`: Contains your main application code.
+* `public/`: Holds static files like index.html.
+
+## Step 4: Start the Development Server
+To run your React application, execute the following command:
+```
+npm start
+```
+This will launch the development server and open your default web browser at http://localhost:3000/, where you can see your React app running.
+
+
