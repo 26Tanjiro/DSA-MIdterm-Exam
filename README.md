@@ -43,7 +43,7 @@ npm -v
 ```
 
 Here is what it looks like:
-![cmdnode](cmdnnode.png)
+![cmdnode image](cmdnode.png)
 
 ### You should see the version numbers for both
 
@@ -88,3 +88,6 @@ npm start
 This will launch the development server and open your default web browser at http://localhost:3000/, where you can see your React app running.
 
 
+
+
+[def]: cmdnnode.png
