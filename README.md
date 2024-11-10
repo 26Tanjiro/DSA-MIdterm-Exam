@@ -41,8 +41,8 @@ React.js, commonly referred to as React, is an open-source JavaScript library de
 node -v
 npm -v
 ```
-You should see the version numbers for both.
------------------
+### You should see the version numbers for both
+
 **Step 2: Create a New React Project
 ---------------
 1. Using Create React App: The easiest way to set up a new React project is by using Create React App. Run the following command in your terminal:
