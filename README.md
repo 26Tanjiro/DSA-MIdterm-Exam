@@ -41,6 +41,10 @@ React.js, commonly referred to as React, is an open-source JavaScript library de
 node -v
 npm -v
 ```
+
+Here is what it looks like:
+![cmdnode](cmdnnode.png)
+
 ### You should see the version numbers for both
 
 **Step 2: Create a New React Project
