@@ -99,6 +99,7 @@ Happy hacking!
 
 
 2. Navigate to Project Directory:
+Change into your newly created project directory:
 ```
 cd my-app
 ```
