@@ -103,7 +103,7 @@ Change into your newly created project directory:
 ```
 cd my-app
 ```
-Make sure you use the same project name `my-app.
+Make sure you use the same project name `my-app`.
 
 **Step 3: Explore Project Structure**
 ----------
