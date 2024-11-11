@@ -51,18 +51,59 @@ Here is what it looks like:
 
 Step 2: Create a New React Project
 ---------------
-1. Using Create React App: The easiest way to set up a new React project is by using Create React App. Run the following command in your terminal:
+1. Create a Folder on Your Desktop: Create a new folder on your desktop, navigate to it, and open a command prompt in this directory.
+
+2. Using Create React App: The easiest way to set up a new React project is by using Create React App. Run the following command in your terminal:
 ```
 npx create-react-app my-app
 ```
 Replace `my-app` with your desired project name. This command will create a new directory with all the necessary files and dependencies for your React application.
 
+Here is what it looks like:
+
+```
+$ npx create-react-app my-app
+
+Creating a new React app in /path/to/your/folder/my-app.
+
+Installing packages. This might take a couple of minutes.
+
+Installing react, react-dom, and react-scripts with cra-template...
+
+[progress messages, downloading and installing dependencies]
+
+Success! Created my-app at /path/to/your/folder/my-app
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd my-app
+  npm start
+
+Happy hacking!
+```
+
+
+
 2. Navigate to Project Directory:
 ```
 cd my-app
 ```
-Check carefuly.
----------------
+Make sure you use the same project name `my-app.
+
 **Step 3: Explore Project Structure**
 ----------
 After creating your project, you will see a structure similar to this:
