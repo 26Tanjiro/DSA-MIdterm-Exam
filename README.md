@@ -3,7 +3,7 @@
 **What is React JS?**
 
 
-React.js, commonly referred to as _**React**_, is an open-source JavaScript library developed by _**Facebook**_ for building user interfaces, particularly for **single-page applications**. It enables developers to create large web applications that can change data without reloading the page, enhancing the user experience significantly.
+React.js, commonly referred to as _**React**_, is an open-source JavaScript library developed by _**Facebook**_ for building user interfaces, particularly for _**single-page applications**_. It enables developers to create large web applications that can change data without reloading the page, enhancing the user experience significantly.
 
 ## Key Features of React
 
