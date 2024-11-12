@@ -134,9 +134,9 @@ This will launch the development server and open your default web browser at htt
 
 Reference
 - [CodeInstitute.WhatisReact.js](https://codeinstitute.net/global/blog/what-is-react-js/)
--[iCoderzSolutionsPvt.Ltd.](https://www.icoderzsolutions.com/blog/react-js-benefits/)
--[Psitiwise](https://positiwise.com/blog/10-main-advantages-of-react-js-development)
--[React.JStutorial](https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s)
+- [iCoderzSolutionsPvt.Ltd.](https://www.icoderzsolutions.com/blog/react-js-benefits/)
+- [Psitiwise](https://positiwise.com/blog/10-main-advantages-of-react-js-development)
+- [React.JStutorial](https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s)
 
 
 
