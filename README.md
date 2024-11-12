@@ -134,10 +134,10 @@ npm start
 This will launch the development server and open your default web browser at http://localhost:3000/, where you can see your React app running.
 
 Reference
-- ![https://codeinstitute.net/global/blog/what-is-react-js/](https://codeinstitute.net/global/blog/what-is-react-js/)
-- ![https://www.icoderzsolutions.com/blog/react-js-benefits/](https://www.icoderzsolutions.com/blog/react-js-benefits/)
-- ![https://positiwise.com/blog/10-main-advantages-of-react-js-development](https://positiwise.com/blog/10-main-advantages-of-react-js-development)
-- ![https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s](https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s)
-- ![https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/](https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/)
+- [https://codeinstitute.net/global/blog/what-is-react-js/](https://codeinstitute.net/global/blog/what-is-react-js/)
+- [https://www.icoderzsolutions.com/blog/react-js-benefits/](https://www.icoderzsolutions.com/blog/react-js-benefits/)
+- [https://positiwise.com/blog/10-main-advantages-of-react-js-development](https://positiwise.com/blog/10-main-advantages-of-react-js-development)
+- [https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s](https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s)
+- [https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/](https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/)
 
 [def]: cmdnnode.png
