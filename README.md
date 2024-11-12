@@ -133,7 +133,13 @@ npm start
 This will launch the development server and open your default web browser at http://localhost:3000/, where you can see your React app running.
 
 Reference
-[CodeInstitute.WhatisReact.js](https://codeinstitute.net/global/blog/what-is-react-js/)
+- [CodeInstitute.WhatisReact.js](https://codeinstitute.net/global/blog/what-is-react-js/)
+
+-[iCoderzSolutionsPvt.Ltd.](https://www.icoderzsolutions.com/blog/react-js-benefits/)
+
+-[Psitiwise](https://positiwise.com/blog/10-main-advantages-of-react-js-development)
+
+-[React.JStutorial](https://www.youtube.com/watch?v=IgWnNlq2qfw&t=10s)
 
 
 
