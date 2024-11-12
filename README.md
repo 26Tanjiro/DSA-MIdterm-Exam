@@ -3,13 +3,13 @@
 **What is React JS?**
 
 
-React.js, commonly referred to as **-React-**, is an open-source JavaScript library developed by **Facebook** for building user interfaces, particularly for **single-page applications**. It enables developers to create large web applications that can change data without reloading the page, enhancing the user experience significantly.
+React.js, commonly referred to as _**React**_, is an open-source JavaScript library developed by _**Facebook**_ for building user interfaces, particularly for **single-page applications**. It enables developers to create large web applications that can change data without reloading the page, enhancing the user experience significantly.
 
 ## Key Features of React
 
 * **Component-Based Architecture** : React applications are built using reusable components, which are independent pieces of code that manage their own state. This modularity allows for better organization and maintenance of code, making it easier to develop complex user interfaces.
 
-* **JSX Syntax**: React uses **JSX (JavaScript XML)**, which allows developers to write HTML-like syntax directly within JavaScript code. This integration makes it intuitive to design components and visualize the UI structure.
+* **JSX Syntax**: React uses _**JSX (JavaScript XML)**_, which allows developers to write HTML-like syntax directly within JavaScript code. This integration makes it intuitive to design components and visualize the UI structure.
 
 * **Virtual DOM**: React employs a virtual DOM to optimize rendering performance. Instead of manipulating the actual DOM directly, React creates a virtual representation of the DOM. When changes occur, it efficiently updates only the parts of the DOM that need to be changed, resulting in faster rendering and improved application performance.
 
@@ -33,7 +33,7 @@ React.js, commonly referred to as **-React-**, is an open-source JavaScript libr
 
 **Step 1: Install Node.js and NPM**
 -----------------------------------
-1. Download Node.js: Visit the [official Node.js](https://nodejs.org/en) website and download the latest **Long Term Support (LTS)** version, which includes NPM (Node Package Manager).
+1. Download Node.js: Visit the [official Node.js](https://nodejs.org/en) website and download the latest _**Long Term Support (LTS)**_ version, which includes NPM (Node Package Manager).
 
 2. Install Node.js: Run the installer and follow the on-screen instructions. Ensure that you select the option to add Node.js to your PATH during installation.
 
