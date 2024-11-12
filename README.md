@@ -32,7 +32,7 @@ React.js, commonly referred to as _**React**_, is an open-source JavaScript libr
 
 
 **Step 1: Install Node.js and NPM**
------------------------------------
+
 1. Download Node.js: Visit the [official Node.js](https://nodejs.org/en) website and download the latest _**Long Term Support (LTS)**_ version, which includes NPM (Node Package Manager).
 
 2. Install Node.js: Run the installer and follow the on-screen instructions. Ensure that you select the option to add Node.js to your PATH during installation.
